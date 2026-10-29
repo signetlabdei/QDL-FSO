@@ -1,0 +1,6 @@
+# .gitignore copied from QDL-ns3
+*
+!.gitignore
+
+!launch.json
+!tasks.json
