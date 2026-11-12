@@ -39,7 +39,7 @@ The results are compared with the altitude profiles presented in Fig. 12.1, Sect
 
 <div align="center">
 
-*$C_n^2(h)$ profile for the downlink scenario.*
+$C_n^2(h)$ *profile for the downlink scenario.*
 
 </div>
 
@@ -60,7 +60,7 @@ The results are compared with the altitude profiles presented in Fig. 12.1, Sect
 
 <div align="center">
 
-*$C_n^2(h)$ profile for the uplink scenario.*
+$C_n^2(h)$ *profile for the uplink scenario.*
 
 </div>
 
@@ -274,7 +274,7 @@ For raw irradiance, the MAE between the empirical histogram and theoretical PDF 
 </table>
 <div align="center">
 
-*Gamma-Gamma scintillation for downlink with Rytov variance $0.1$.*
+*Gamma-Gamma scintillation for downlink with Rytov variance* $0.1$*.*
 
 </div>
 
@@ -292,7 +292,7 @@ For raw irradiance, the MAE between the empirical histogram and theoretical PDF 
 </table>
 <div align="center">
 
-*Gamma-Gamma scintillation for downlink with Rytov variance $2$.*
+*Gamma-Gamma scintillation for downlink with Rytov variance* $2$*.*
 
 </div>
 
@@ -310,7 +310,7 @@ For raw irradiance, the MAE between the empirical histogram and theoretical PDF 
 </table>
 <div align="center">
 
-*Gamma-Gamma scintillation for downlink with Rytov variance $25$.*
+*Gamma-Gamma scintillation for downlink with Rytov variance* $25$*.*
 
 </div>
 
@@ -330,7 +330,7 @@ For raw irradiance, the MAE between the empirical histogram and theoretical PDF 
 </table>
 <div align="center">
 
-*Gamma-Gamma scintillation for uplink with Rytov variance $0.06$.*
+*Gamma-Gamma scintillation for uplink with Rytov variance* $0.06$*.*
 
 </div>
 
@@ -348,7 +348,7 @@ For raw irradiance, the MAE between the empirical histogram and theoretical PDF 
 </table>
 <div align="center">
 
-*Gamma-Gamma scintillation for uplink with Rytov variance $2$.*
+*Gamma-Gamma scintillation for uplink with Rytov variance* $2$*.*
 
 </div>
 
@@ -366,7 +366,7 @@ For raw irradiance, the MAE between the empirical histogram and theoretical PDF 
 </table>
 <div align="center">
 
-*Gamma-Gamma scintillation for uplink with Rytov variance $5$.*
+*Gamma-Gamma scintillation for uplink with Rytov variance* $5$*.*
 
 </div>
 
