@@ -5,6 +5,7 @@ if(q2ns
    contrib_libs_to_build
 )
   set(quantum_examples
+      qdl-fso-quantum-simple-example
       qdl-fso-quantum-example
   )
   set(quantum_libraries
@@ -18,6 +19,7 @@ endif()
 
 set(example_sources
     ${quantum_examples}
+    qdl-fso-classical-simple-example
     qdl-fso-transmissivity-example
 )
 
